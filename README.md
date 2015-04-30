@@ -2,7 +2,8 @@
 A python script to convert DMOZ content.rdf.u8.gz into a CSV file. It also includes the output CSV file generated from it. 
 
 The structure of the file is
-<URL><Category1 for the URL><Category2 for the URL><Category1 for the URL>............<CategoryN for the URL>
+
+"URL","Category 1","Category 2",..........
 
 Example:
 
